@@ -1,0 +1,6 @@
+{
+  "name": "TermuZuku",
+  "description": "Controlador unificado de Termux y Shizuku con monitor de batería en tiempo real y consola de comandos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

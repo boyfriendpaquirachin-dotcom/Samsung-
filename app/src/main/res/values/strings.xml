@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TermuZuku</string>
+
+    <!-- Navigation -->
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_console">Consola</string>
+    <string name="nav_functions">Funciones</string>
+
+    <!-- Common -->
+    <string name="status_connected">Conectado</string>
+    <string name="status_permission_needed">Sin permiso</string>
+    <string name="status_inactive">Inactivo</string>
+    <string name="status_not_installed">No instalado</string>
+    <string name="action_authorize">Autorizar</string>
+    <string name="action_open_app">Abrir</string>
+    <string name="action_copy">Copiar</string>
+    <string name="action_run">Ejecutar</string>
+    <string name="action_clear">Limpiar</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_add_command">Nuevo comando</string>
+    <string name="action_setup_guide">Guía de configuración</string>
+
+    <!-- Shizuku & Termux -->
+    <string name="engine_shizuku">Shizuku</string>
+    <string name="engine_termux">Termux</string>
+    <string name="engine_local">Shell Local</string>
+    <string name="shizuku_subtitle">Control privilegiado ADB / Root</string>
+    <string name="termux_subtitle">Entorno Linux &amp; Bash</string>
+
+    <!-- Battery -->
+    <string name="battery_monitor_title">Telemetría de Batería</string>
+    <string name="battery_level_label">Nivel</string>
+    <string name="battery_temp_label">Temperatura</string>
+    <string name="battery_voltage_label">Voltaje</string>
+    <string name="battery_current_label">Corriente</string>
+    <string name="battery_health_label">Salud</string>
+    <string name="battery_tech_label">Tecnología</string>
+    <string name="battery_power_label">Fuente</string>
+    <string name="battery_automation_title">Automatización por Batería</string>
+
+    <!-- Quick Settings Tile -->
+    <string name="qs_tile_label">Ahorro Samsung</string>
+    <string name="qs_tile_subtitle_shizuku_needed">Abrir Shizuku</string>
+    <string name="qs_tile_subtitle_working">Aplicando…</string>
+</resources>
